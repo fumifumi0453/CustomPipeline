@@ -1,0 +1,23 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+/reference:..\..\CustomPipeline\bin\Debug\net6.0\CustomPipeline.dll
+
+#---------------------------------- Content ---------------------------------#
+
+#begin PixelMplus12-Regular.ttf
+/importer:BinaryImporter
+/processor:BinaryProcessor
+/processorParam:UseCompression=True
+/processorParam:UseEncryption=False
+/build:PixelMplus12-Regular.ttf
+

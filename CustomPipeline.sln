@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPipeline", "CustomPipeline\CustomPipeline.csproj", "{53D3EDE8-7FFB-479D-8255-6275B13EF0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleApp", "ExampleApp\ExampleApp.csproj", "{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D3EDE8-7FFB-479D-8255-6275B13EF0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D3EDE8-7FFB-479D-8255-6275B13EF0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D3EDE8-7FFB-479D-8255-6275B13EF0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D3EDE8-7FFB-479D-8255-6275B13EF0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6A4863-709B-4482-994F-1A8AE24FB741}
+	EndGlobalSection
+EndGlobal
