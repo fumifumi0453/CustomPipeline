@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPipeline", "CustomPipeline\CustomPipeline.csproj", "{53D3EDE8-7FFB-479D-8255-6275B13EF0A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleApp", "ExampleApp\ExampleApp.csproj", "{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplApp2", "ExamplApp2\ExamplApp2.csproj", "{B7589A6F-431D-4620-A960-FD8432F35A67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A22DE02D-894B-42BD-ACD8-AC4111B59AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7589A6F-431D-4620-A960-FD8432F35A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7589A6F-431D-4620-A960-FD8432F35A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7589A6F-431D-4620-A960-FD8432F35A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7589A6F-431D-4620-A960-FD8432F35A67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
