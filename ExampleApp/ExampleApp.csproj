@@ -25,6 +25,9 @@
     <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.3" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CustomPipeline\CustomPipeline.csproj" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="CustomPipeline">
       <HintPath>..\CustomPipeline\bin\Debug\net6.0\CustomPipeline.dll</HintPath>
     </Reference>
